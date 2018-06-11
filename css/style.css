@@ -552,6 +552,9 @@ h5.sub {
 .skills-bar .bar_group__bar:nth-of-type(7) {
   background: #00bdbd;
 }
+.skills-bar .bar_group__bar:nth-of-type(8) {
+  background: #00bdbd;
+}
 .bar_group {
   position: relative;
 }
